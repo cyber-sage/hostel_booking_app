@@ -36,3 +36,68 @@
     transform: rotate(360deg);
   }
 }
+
+.BoyGirlClass{
+display: flex;
+justify-content: space-around;
+
+}
+
+.boyClass{
+ 
+ border-radius: 25px;
+ background-color: lightblue;
+ padding: 20px;
+ width: 200px;
+ height: 150px;
+ cursor: pointer;
+
+}
+.conatiner{
+  display: flex;
+  justify-content: center;
+  
+}
+
+.girlClass{
+  border-radius: 25px;
+  background-color: pink;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+  cursor: pointer;
+}
+
+.hostel-grid{
+
+display: grid;
+margin: 15px 15px 15px 15px;
+grid-template-columns: repeat(3,1fr);
+grid-template-rows: repeat(2,1fr);
+background-color: white;
+grid-gap: 15px;
+text-align: center;
+
+
+
+
+}
+
+.hostel-cell{
+
+
+  /* background-color: black;
+  display: flex;
+  justify-content: center;
+  color:white;
+  align-items: center;
+  height: 15px;
+  width: 15px;
+  cursor: pointer; */
+  border-radius: 25px;
+ background-color: lightblue;
+ padding: 20px;
+ width: 20px;
+ height: 15px;
+ cursor: pointer;
+}
