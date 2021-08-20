@@ -37,8 +37,8 @@ function HostelNumber(props){
      if(roomClick){
          return (
          <>
-               <FloorAndRoomNumber hostelNum={hostelName} roomNumber="1"></FloorAndRoomNumber>
-               <FloorAndRoomNumber hostelNum={hostelName} roomNumber="2"></FloorAndRoomNumber>
+               <FloorAndRoomNumber hostelNum={hostelName} ></FloorAndRoomNumber>
+               {/* <FloorAndRoomNumber hostelNum={hostelName} roomNumber="2"></FloorAndRoomNumber>
                <FloorAndRoomNumber hostelNum={hostelName} roomNumber="3"></FloorAndRoomNumber>
                <FloorAndRoomNumber hostelNum={hostelName} roomNumber="4"></FloorAndRoomNumber>
                <FloorAndRoomNumber hostelNum={hostelName} roomNumber="5"></FloorAndRoomNumber>
@@ -46,7 +46,7 @@ function HostelNumber(props){
                <FloorAndRoomNumber hostelNum={hostelName} roomNumber="7"></FloorAndRoomNumber>
                <FloorAndRoomNumber hostelNum={hostelName} roomNumber="8"></FloorAndRoomNumber>
                <FloorAndRoomNumber hostelNum={hostelName} roomNumber="9"></FloorAndRoomNumber>
-               <FloorAndRoomNumber hostelNum={hostelName} roomNumber="10"></FloorAndRoomNumber>
+               <FloorAndRoomNumber hostelNum={hostelName} roomNumber="10"></FloorAndRoomNumber> */}
 
                
                

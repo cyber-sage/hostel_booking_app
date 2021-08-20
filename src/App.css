@@ -101,3 +101,21 @@ text-align: center;
  height: 15px;
  cursor: pointer;
 }
+
+.hostel-cell.room{
+  background-color: brown;
+}
+
+
+.Success{
+
+  border-radius: 25px;
+  background-color: green;
+  color: white;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+  cursor: pointer;
+  
+  
+}

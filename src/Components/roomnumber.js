@@ -1,23 +1,25 @@
-import React from 'react';
-import '../App.css';
+// // import React from 'react';
+// // import '../App.css';
 
-function RoomNumber(props){
+// // function RoomNumber(props){
 
+// //     selectRoom = (e) =>{
+// //        e.target.classList.add("room");
+// //     }
+//     return (
 
-    return (
-
-     <>
-         <div className="hostel-cell" >{props.roomnumber}</div>
+//      <>
+        
          
      
-     </>
+//      </>
 
 
-    );
+//     );
 
     
 
 
-}
+// }
 
-export default RoomNumber;
+// export default RoomNumber;
